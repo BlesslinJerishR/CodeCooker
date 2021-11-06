@@ -133,7 +133,7 @@ https://github.com/ossu/computer-science#introduction-to-programming
 $- Open Source Computer Science v7
 https://ossu.thinkific.com/courses/computer-science-v7
 
-$- Computer Science sheet
+$- Computersheet
 https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/edit?usp=drivesdk
 
 $- Open CS
