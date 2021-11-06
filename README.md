@@ -25,10 +25,10 @@ https://nostarch.com/catalog/security
 $- PDF Drive
 https://www.pdfdrive.com/
 
-$- Start Up Guide
+$- Start Ups
 https://drive.google.com/drive/folders/1SgX60PRQNuh0xgny7_J_QfPSQGJOgLtv?usp=sharing
 
-$- About Start Ups
+$- iStart
 https://www.getstartupcodex.com/
 
 $- Engineer Man
